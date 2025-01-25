@@ -7,7 +7,7 @@ import './App.css';
 
 const App = () => {
     return (
-        <div style={{backgroundColor: "#1d1d1d"}}>
+        <div style={{backgroundColor: "#FFB700"}}>
             <div
             style={{
                 display: "grid",
